@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8cf116-1ccf-4ae9-b509-1048f3033be9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/polynomialRegreesion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/polynomialRegreesion.py" afterDir="false" />
-    </list>
+    <list default="true" id="da8cf116-1ccf-4ae9-b509-1048f3033be9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/linearRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="300">
+              <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -41,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/multivariateRegreesion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="351">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -215,23 +213,22 @@
       <option name="presentableId" value="Default" />
       <updated>1551113755602</updated>
       <workItem from="1551113757062" duration="1325000" />
-      <workItem from="1551133509751" duration="5208000" />
+      <workItem from="1551133509751" duration="6098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6533000" />
+    <option name="totallyTimeSpent" value="7423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="745" y="0" width="695" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.42857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42725882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25662652" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25662652" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -253,12 +250,12 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/linearRegression.py">
+    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/multivariateRegreesion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="351">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -273,12 +270,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/multivariateRegreesion.py">
+    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/linearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="300">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8cf116-1ccf-4ae9-b509-1048f3033be9" name="Default Changelist" comment="" />
+    <list default="true" id="da8cf116-1ccf-4ae9-b509-1048f3033be9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AI&amp;ML&amp;DS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI&amp;ML&amp;DS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,32 +13,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AI_ML_DS$linearRegression.coverage" NAME="linearRegression Coverage Results" MODIFIED="1551134678764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels" />
-    <SUITE FILE_PATH="coverage/AI_ML_DS$spamClassifierWithNaiveBayes.coverage" NAME="spamClassifierWithNaiveBayes Coverage Results" MODIFIED="1551146182012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
     <SUITE FILE_PATH="coverage/AI_ML_DS$trainTestModel.coverage" NAME="trainTestModel Coverage Results" MODIFIED="1551143801162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
-    <SUITE FILE_PATH="coverage/AI_ML_DS$polynomialRegreesion.coverage" NAME="polynomialRegreesion Coverage Results" MODIFIED="1551135869780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels" />
-    <SUITE FILE_PATH="coverage/AI_ML_DS$KMeans.coverage" NAME="KMeans Coverage Results" MODIFIED="1551148447617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$spamClassifierWithNaiveBayes.coverage" NAME="spamClassifierWithNaiveBayes Coverage Results" MODIFIED="1551215514467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
     <SUITE FILE_PATH="coverage/AI_ML_DS$multivariateRegreesion.coverage" NAME="multivariateRegreesion Coverage Results" MODIFIED="1551139142134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$linearRegression.coverage" NAME="linearRegression Coverage Results" MODIFIED="1551134678764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$SVM.coverage" NAME="SVM Coverage Results" MODIFIED="1551219900650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$polynomialRegreesion.coverage" NAME="polynomialRegreesion Coverage Results" MODIFIED="1551135869780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$KMeans.coverage" NAME="KMeans Coverage Results" MODIFIED="1551218164294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/linearRegression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/polynomialRegreesion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="378">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -45,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/multivariateRegreesion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="126">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -57,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/trainTestModel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="540">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -69,17 +67,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/spamClassifierWithNaiveBayes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="72">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/SVM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/KMeans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="288">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -109,13 +119,14 @@
         <option value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/trainTestModel.py" />
         <option value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/spamClassifierWithNaiveBayes.py" />
         <option value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/KMeans.py" />
+        <option value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/SVM.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="730" />
-    <option name="width" value="710" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -128,17 +139,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="AI-ML-DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI-ML-DS" type="462c0819:PsiDirectoryNode" />
+              <item name="AI&amp;ML&amp;DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI&amp;ML&amp;DS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AI-ML-DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI-ML-DS" type="462c0819:PsiDirectoryNode" />
+              <item name="AI&amp;ML&amp;DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI&amp;ML&amp;DS" type="462c0819:PsiDirectoryNode" />
               <item name="Hands-onDSAndML" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AI-ML-DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI-ML-DS" type="462c0819:PsiDirectoryNode" />
+              <item name="AI&amp;ML&amp;DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI&amp;ML&amp;DS" type="462c0819:PsiDirectoryNode" />
               <item name="Hands-onDSAndML" type="462c0819:PsiDirectoryNode" />
               <item name="ch5MachineLearningWithPython" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -167,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.KMeans">
+  <component name="RunManager" selected="Python.SVM">
     <configuration name="KMeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI&amp;ML&amp;DS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,6 +201,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI&amp;ML&amp;DS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/SVM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="multivariateRegreesion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI&amp;ML&amp;DS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,28 +237,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/multivariateRegreesion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="polynomialRegreesion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AI&amp;ML&amp;DS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/polynomialRegreesion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SVM" />
         <item itemvalue="Python.KMeans" />
         <item itemvalue="Python.spamClassifierWithNaiveBayes" />
         <item itemvalue="Python.trainTestModel" />
         <item itemvalue="Python.multivariateRegreesion" />
-        <item itemvalue="Python.polynomialRegreesion" />
       </list>
     </recent_temporary>
   </component>
@@ -300,22 +311,23 @@
       <updated>1551113755602</updated>
       <workItem from="1551113757062" duration="1325000" />
       <workItem from="1551133509751" duration="9914000" />
+      <workItem from="1551215385306" duration="3323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11239000" />
+    <option name="totallyTimeSpent" value="14562000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="745" y="0" width="695" height="900" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.42725882" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.42669585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25662652" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25629792" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,7 +341,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.82388973" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.50765866" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -337,62 +349,70 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/train/testOnPolynomialRegression.py" />
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/linearRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/polynomialRegreesion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="378">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/train/testOnPolynomialRegression.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/multivariateRegreesion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/trainTestModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="540">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/multivariateRegreesion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/spamClassifierWithNaiveBayes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        <state relative-caret-position="72">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/KMeans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="288">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/sklearn/svm/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="253" selection-start-line="253" selection-end-line="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/SVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

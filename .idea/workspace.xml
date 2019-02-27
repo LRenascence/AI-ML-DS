@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8cf116-1ccf-4ae9-b509-1048f3033be9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AI&amp;ML&amp;DS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI&amp;ML&amp;DS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/collaborativeFiltering.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/collaborativeFiltering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hands-onDSAndML/ch9Spark/KMeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hands-onDSAndML/ch9Spark/KMeans.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +36,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/makeRecommendation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+            <state relative-caret-position="336">
+              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch9Spark/KMeans.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="40" column="54" lean-forward="true" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +82,7 @@
         <option value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/SVM.py" />
         <option value="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/collaborativeFiltering.py" />
         <option value="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/makeRecommendation.py" />
+        <option value="$PROJECT_DIR$/Hands-onDSAndML/ch9Spark/KMeans.py" />
       </list>
     </option>
   </component>
@@ -104,7 +115,7 @@
               <item name="AI-ML-DS" type="b2602c69:ProjectViewProjectNode" />
               <item name="AI-ML-DS" type="462c0819:PsiDirectoryNode" />
               <item name="Hands-onDSAndML" type="462c0819:PsiDirectoryNode" />
-              <item name="ch6RecommenderSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="ch9Spark" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -265,12 +276,12 @@
       <workItem from="1551113757062" duration="1325000" />
       <workItem from="1551133509751" duration="9914000" />
       <workItem from="1551215385306" duration="6558000" />
-      <workItem from="1551229463007" duration="3111000" />
+      <workItem from="1551229463007" duration="4051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20908000" />
+    <option name="totallyTimeSpent" value="21848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="730" y="0" width="710" height="900" extended-state="0" />
@@ -281,7 +292,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2807229" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2807229" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,8 +388,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/makeRecommendation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        <state relative-caret-position="336">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch9Spark/KMeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="40" column="54" lean-forward="true" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

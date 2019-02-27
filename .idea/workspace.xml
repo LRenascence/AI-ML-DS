@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8cf116-1ccf-4ae9-b509-1048f3033be9" name="Default Changelist" comment="" />
+    <list default="true" id="da8cf116-1ccf-4ae9-b509-1048f3033be9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AI&amp;ML&amp;DS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI&amp;ML&amp;DS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/collaborativeFiltering.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/collaborativeFiltering.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,39 +14,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AI_ML_DS$trainTestModel.coverage" NAME="trainTestModel Coverage Results" MODIFIED="1551143801162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
-    <SUITE FILE_PATH="coverage/AI_ML_DS$spamClassifierWithNaiveBayes.coverage" NAME="spamClassifierWithNaiveBayes Coverage Results" MODIFIED="1551215514467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
-    <SUITE FILE_PATH="coverage/AI_ML_DS$collaborativeFiltering.coverage" NAME="collaborativeFiltering Coverage Results" MODIFIED="1551228219199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem" />
-    <SUITE FILE_PATH="coverage/AI_ML_DS$multivariateRegreesion.coverage" NAME="multivariateRegreesion Coverage Results" MODIFIED="1551139142134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels" />
     <SUITE FILE_PATH="coverage/AI_ML_DS$linearRegression.coverage" NAME="linearRegression Coverage Results" MODIFIED="1551134678764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels" />
-    <SUITE FILE_PATH="coverage/AI_ML_DS$SVM.coverage" NAME="SVM Coverage Results" MODIFIED="1551219900650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$spamClassifierWithNaiveBayes.coverage" NAME="spamClassifierWithNaiveBayes Coverage Results" MODIFIED="1551215514467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$makeRecommendation.coverage" NAME="makeRecommendation Coverage Results" MODIFIED="1551232703945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$trainTestModel.coverage" NAME="trainTestModel Coverage Results" MODIFIED="1551143801162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
     <SUITE FILE_PATH="coverage/AI_ML_DS$polynomialRegreesion.coverage" NAME="polynomialRegreesion Coverage Results" MODIFIED="1551135869780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels" />
     <SUITE FILE_PATH="coverage/AI_ML_DS$KMeans.coverage" NAME="KMeans Coverage Results" MODIFIED="1551218164294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$collaborativeFiltering.coverage" NAME="collaborativeFiltering Coverage Results" MODIFIED="1551230694328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$SVM.coverage" NAME="SVM Coverage Results" MODIFIED="1551219900650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
+    <SUITE FILE_PATH="coverage/AI_ML_DS$multivariateRegreesion.coverage" NAME="multivariateRegreesion Coverage Results" MODIFIED="1551139142134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/linearRegression.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/polynomialRegreesion.py">
+        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/collaborativeFiltering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/multivariateRegreesion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="103">
+              <caret line="18" selection-start-line="18" selection-end-line="28" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -49,56 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/trainTestModel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/spamClassifierWithNaiveBayes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/SVM.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/collaborativeFiltering.py">
+        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/makeRecommendation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/KMeans.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="410">
+              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -127,13 +71,15 @@
         <option value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/KMeans.py" />
         <option value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/SVM.py" />
         <option value="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/collaborativeFiltering.py" />
+        <option value="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/makeRecommendation.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="466" />
+    <option name="y" value="23" />
     <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="height" value="806" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,17 +92,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="AI&amp;ML&amp;DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI&amp;ML&amp;DS" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-ML-DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI-ML-DS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AI&amp;ML&amp;DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI&amp;ML&amp;DS" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-ML-DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI-ML-DS" type="462c0819:PsiDirectoryNode" />
               <item name="Hands-onDSAndML" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AI&amp;ML&amp;DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI&amp;ML&amp;DS" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-ML-DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI-ML-DS" type="462c0819:PsiDirectoryNode" />
               <item name="Hands-onDSAndML" type="462c0819:PsiDirectoryNode" />
               <item name="ch6RecommenderSystem" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -185,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.collaborativeFiltering">
+  <component name="RunManager" selected="Python.makeRecommendation">
     <configuration name="KMeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI&amp;ML&amp;DS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,6 +198,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="makeRecommendation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI&amp;ML&amp;DS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/makeRecommendation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="spamClassifierWithNaiveBayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI&amp;ML&amp;DS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,35 +242,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trainTestModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AI&amp;ML&amp;DS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/trainTestModel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.makeRecommendation" />
         <item itemvalue="Python.collaborativeFiltering" />
         <item itemvalue="Python.SVM" />
         <item itemvalue="Python.KMeans" />
         <item itemvalue="Python.spamClassifierWithNaiveBayes" />
-        <item itemvalue="Python.trainTestModel" />
       </list>
     </recent_temporary>
   </component>
@@ -319,21 +265,23 @@
       <workItem from="1551113757062" duration="1325000" />
       <workItem from="1551133509751" duration="9914000" />
       <workItem from="1551215385306" duration="6558000" />
+      <workItem from="1551229463007" duration="3111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17797000" />
+    <option name="totallyTimeSpent" value="20908000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="730" y="0" width="710" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.42669585" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4251497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25629792" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2807229" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -356,23 +304,14 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/train/testOnPolynomialRegression.py" />
+    <entry file="file://D:/Anaconda3/Lib/site-packages/sklearn/svm/base.py" />
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/linearRegression.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/polynomialRegreesion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="567">
           <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/trainTestModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -381,7 +320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch4PredictiveModels/multivariateRegreesion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="189">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -389,33 +328,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/spamClassifierWithNaiveBayes.py">
+    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/trainTestModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/KMeans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="810">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Anaconda3/Lib/site-packages/sklearn/svm/base.py">
+    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/spamClassifierWithNaiveBayes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="253" selection-start-line="253" selection-end-line="253" />
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/SVM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
+        <state relative-caret-position="783">
           <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -423,10 +355,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch5MachineLearningWithPython/KMeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/collaborativeFiltering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+        <state relative-caret-position="103">
+          <caret line="18" selection-start-line="18" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hands-onDSAndML/ch6RecommenderSystem/makeRecommendation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 r_cols = ['userid', 'movieid', 'rating']
 ratings = pd.read_csv('ml-100k/u.data', encoding = "ISO-8859-1", sep = '\\t', names = r_cols, usecols = range(3))
@@ -34,4 +35,14 @@ similarMovies = movieRatings.corrwith(starWarsRatings)
 similarMovies = similarMovies.dropna()
 # sort the similarity score
 similarMovies = similarMovies.sort_values(ascending = False)
-print(similarMovies)
+# some obscure movies show up
+# improving similarity quality
+# get the number of people watch this movie
+movieStats = ratings.groupby('title').agg({'rating':[np.size, np.mean]})
+# keep the movie that be watched by 100 people and more
+popularMovies = movieStats['rating']['size'] >= 100
+# combine the popular movies and similar movies
+df = movieStats[popularMovies].join(pd.DataFrame(similarMovies, columns = ['similarity']))
+# get the top 15 similar movies
+df = df.sort_values(['similarity'], ascending = False)[:15]
+print(df)

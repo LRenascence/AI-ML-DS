@@ -6,6 +6,7 @@ from sklearn.preprocessing import scale
 
 K = 5
 
+# Spark object
 conf = SparkConf().setMaster('local').setAppName('SparkKMeans')
 sc = SparkContext(conf = conf)
 # generate fake cluster data

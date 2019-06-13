@@ -1,15 +1,11 @@
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
-
 # read the data from csv file
 df = pd.read_csv('spam.csv', encoding = "ISO-8859-1")
 
-
 train = df[:5000]
 test = df[5001:]
-
-
 
 # counts is the word list and number of times
 vectorizer = CountVectorizer()

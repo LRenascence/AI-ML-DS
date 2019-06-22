@@ -29,6 +29,7 @@ predictions = classifier.predict(test_counts)
 match = 0
 result = test['v1'].values
 
+# if correct
 for i in range(len(predictions)):
     if predictions[i] == result[i]:
         match += 1

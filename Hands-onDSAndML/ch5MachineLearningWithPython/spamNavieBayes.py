@@ -3,6 +3,11 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
 
+
+
+
+
+
 # read the data from csv file
 df = pd.read_csv('spam.csv', encoding = "ISO-8859-1")
 

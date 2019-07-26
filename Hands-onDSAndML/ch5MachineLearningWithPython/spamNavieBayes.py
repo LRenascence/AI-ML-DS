@@ -20,7 +20,7 @@ classifier.fit(counts, targets)
 test_counts = vectorizer.transform(test.v2)
 predictions = classifier.predict(test_counts)
 
-
+# init
 match = 0
 result = test['v1'].values
 

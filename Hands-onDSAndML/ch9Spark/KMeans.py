@@ -38,6 +38,7 @@ outputFile.write('cluster assignments:')
 results = resultRDD.collect()
 outputFile.write(str(results))
 
+# get the error ratio
 def error(point):
     center = clusters.centers[clusters.predict(point)]
     return sqrt(sum([x**2 for x in (point - center)]))

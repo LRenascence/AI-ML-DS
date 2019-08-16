@@ -35,6 +35,8 @@ similarMovies = movieRatings.corrwith(starWarsRatings)
 similarMovies = similarMovies.dropna()
 # sort the similarity score
 similarMovies = similarMovies.sort_values(ascending = False)
+
+
 # some obscure movies show up
 # improving similarity quality
 # get the number of people watch this movie

@@ -36,6 +36,7 @@ userRatings = ratings.pivot_table(index = ['userid'], columns = ['title'], value
 # can add some parameters to .corr() function
 # min_periods the number of people that rated both movies
 corrMatrix = userRatings.corr(method = 'pearson', min_periods = 100)
+
 # get the user watch log
 myRatings = userRatings.loc[1].dropna()
 # recommend movies to this user

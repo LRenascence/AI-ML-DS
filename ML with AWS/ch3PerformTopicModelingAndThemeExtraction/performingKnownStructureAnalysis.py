@@ -1,6 +1,7 @@
 import boto3
 import pandas as pd
 
+# connection
 s3 = boto3.client('s3')
 
 bucket_name = 'renascence-known-tm-analysis'

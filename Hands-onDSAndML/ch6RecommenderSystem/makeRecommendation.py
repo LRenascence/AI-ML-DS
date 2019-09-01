@@ -12,6 +12,7 @@ movies = pd.read_csv('ml-100k/u.item', encoding = "ISO-8859-1", sep = '|', names
 # 1  Toy Story (1995)     148       4
 # 1  Toy Story (1995)     280       4
 # 1  Toy Story (1995)      66       3
+
 ratings = pd.merge(movies, ratings)
 # convert table using pivot_table like this
 #title   'Til There Was You (1997)  ...  Á köldum klaka (Cold Fever) (1994)

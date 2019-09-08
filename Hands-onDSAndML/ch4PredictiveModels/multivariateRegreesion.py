@@ -2,6 +2,7 @@ import pandas as pd
 import xlrd
 import statsmodels.api as sm
 
+# read the file
 df = pd.read_excel("http://cdn.sundog-soft.com/Udemy/DataScience/cars.xls")
 # convert text type to integer, because algorithm only support integer
 df['Model_ord'] = pd.Categorical(df.Model).codes

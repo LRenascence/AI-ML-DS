@@ -3,7 +3,6 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import scale
 import matplotlib.pyplot as plt
 
-
 # generate fake cluster data
 def createClusteredData(N, k):
     random.seed(10)

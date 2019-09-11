@@ -20,6 +20,8 @@ def createClusteredData(N, k):
 data = createClusteredData(100, 5)
 #print(data)
 model = KMeans(n_clusters = 5)
+
+
 # scaling data for better result
 model = model.fit(scale(data))
 print(model.labels_)

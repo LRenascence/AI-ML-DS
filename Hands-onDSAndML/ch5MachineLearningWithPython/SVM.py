@@ -2,8 +2,6 @@ import numpy as np
 from pylab import *
 from sklearn import svm, datasets
 
-
-
 # create fake cluster data
 def createClusteredData(N, k):
     np.random.seed(10)

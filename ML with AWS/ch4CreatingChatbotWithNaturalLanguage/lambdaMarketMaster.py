@@ -14,7 +14,6 @@ def close(message):
         }
     }
 
-
 def getQuote(request):
     slots = request['currentIntent']['slots']
     ticker = slots['ticker']

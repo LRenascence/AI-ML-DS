@@ -1,6 +1,9 @@
 import json
 from urllib.request import urlopen
 
+
+
+
 def close(message):
     return {
         'sessionAttributes': {},

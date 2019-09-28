@@ -4,6 +4,7 @@ from math import sqrt
 from pyspark import SparkConf, SparkContext
 from sklearn.preprocessing import scale
 
+# set the k
 K = 5
 
 # Spark object

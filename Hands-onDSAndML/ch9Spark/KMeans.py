@@ -31,7 +31,7 @@ clusters = KMeans.train(data, K, maxIterations = 10, initializationMode = 'rando
 
 resultRDD = data.map(lambda point: clusters.predict(point)).cache()
 
-# file
+# write result to the file
 outputFile = open('output.txt','wt')
 outputFile.write('counts by value:')
 counts = resultRDD.countByValue()

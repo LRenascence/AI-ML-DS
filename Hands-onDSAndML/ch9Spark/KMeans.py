@@ -46,5 +46,6 @@ def error(point):
     center = clusters.centers[clusters.predict(point)]
     return sqrt(sum([x**2 for x in (point - center)]))
 
+# print the error
 WSSSE = data.map(lambda point: error(point)).reduce(lambda x, y: x + y)
 outputFile.write(('within set sum of squraed error = ' + str(WSSSE)))

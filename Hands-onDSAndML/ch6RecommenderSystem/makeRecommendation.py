@@ -1,6 +1,6 @@
 import pandas as pd
 
-# read files
+
 r_cols = ['userid', 'movieid', 'rating']
 ratings = pd.read_csv('ml-100k/u.data', encoding = "ISO-8859-1", sep = '\\t', names = r_cols, usecols = range(3))
 
